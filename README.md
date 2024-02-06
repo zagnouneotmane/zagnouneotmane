@@ -11,7 +11,7 @@
 * Computer vision 
 * Natural Language Processing 
 
-👉[My Online Portfolio](https://zagnouneotmane.github.io/zagnoune-portfolio)
+👉[My Online Portfolio](https://zagnouneotmane.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
